@@ -25,7 +25,7 @@ sudo dpkg -i wkhtmltox_0.12.6.1-2.jammy_amd64.deb
 sudo apt -f install
 wkhtmltopdf -V
 # wkhtmltopdf 0.12.6.1 (with patched qt)
-
+```
 📚 Notes
 This file was repacked solely to preserve access to a stable, patched version of wkhtmltopdf for Ubuntu Jammy users.
 Full credit to the original wkhtmltopdf maintainers and contributors. (https://github.com/wkhtmltopdf/wkhtmltopdf)
