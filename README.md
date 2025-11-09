@@ -20,7 +20,7 @@ a version no longer available from the official releases.
 
 ## 📦 Installation (Ubuntu 22.04)
 ```bash
-wget https://github.com/karthikkm007/wkhtmltox-0.12.6.1-patched-qt-ubuntu-jammy/raw/main/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+wget https://github.com/karthikkm007/wkhtmltox-0.12.6.1-patched-qt-ubuntu-jammy/releases/download/1/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
 sudo dpkg -i wkhtmltox_0.12.6.1-2.jammy_amd64.deb
 sudo apt -f install
 wkhtmltopdf -V
